@@ -142,8 +142,9 @@ width: 30vw;
 }
 
 .sectitle {
-    width: 900px;
-    margin: 15vh 0vh 0vh 17vw;
+    width: 100vw;
+    margin: 15vh 0vh 0vh 0vw;
+    justify-items: center;
 }
 
 .sectitle h2 {
@@ -153,6 +154,7 @@ width: 30vw;
     text-align: center;
     color: #3331B9;
     font-size: 1.8rem;
+    width: 60vw;
 }
 
 .service1 {
@@ -833,6 +835,11 @@ button:hover {
 
         .sectitle {
             margin: 15vh 0vh 0vh 0vw;
+            width: 100vw;
+        }
+
+        .sectitle h2 {
+            width: 100vw
         }
 
         #Services {
@@ -1001,6 +1008,7 @@ button:hover {
 
         .sectitle h2 {
             font-size: 1.3rem;
+            width: 100vw;
         }
 
         .service1, .service2, .service3, .service4 {
