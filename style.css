@@ -1224,6 +1224,7 @@ button:hover {
     }
 
     .watermarkdiv {
+        margin-top: 8vh;
         justify-items: center;
     }
 
