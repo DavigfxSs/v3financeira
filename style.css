@@ -23,7 +23,7 @@ header {
 }
 
 header img {
-    width: 80px;
+    width: 90px;
     margin-left: 30vh;
     margin-top: 0.5vh;
 }
@@ -32,13 +32,15 @@ header img {
 display: flex;
 }
 
+
+
 .logonameP {
     align-self: center;
     color: white;
     font-family: "Poppins", serif;
     font-weight: 800;
     font-style: normal;
-    font-size: 1.3rem;
+    font-size: 1.6rem;
    
 }
 
