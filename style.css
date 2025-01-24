@@ -685,6 +685,10 @@ button:hover {
             background-color: #3331B9;
         }
 
+        iframe {
+            margin-top: 5vh;
+        }
+
         .footcontent {
             display: flex;
             justify-content: space-between;
@@ -1220,10 +1224,14 @@ button:hover {
 
 
 
-
+        iframe {
+            width: 80vw;
+        }
         
 
     }
+
+    
 
     .watermarkdiv {
         margin-top: 8vh;
